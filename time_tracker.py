@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Автоматизация и учёта рабочего времени - СОВРЕМЕННЫЙ HUD ДИЗАЙН
-"""
 
 import sqlite3
 import tkinter as tk
